@@ -31,6 +31,8 @@ pip install -r requirements.txt
 # 修改cycle_gan.py中213行，图片目录
 python cycle_gan.py
 ```
+
+你也可以下载本项目训练好的[生成器模型](https://github.com/yatengLG/cycleGAN/releases/tag/1.0.0)
 # 损失
 
 | G_loss                             | D_loss                            | GAN_loss                               | cycle_loss                                 | idt_loss                              |
