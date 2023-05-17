@@ -1,4 +1,4 @@
-# 基于pytorch的cycleGANk复现
+# 基于pytorch的cycleGAN复现
 
 [cycleGAN官方代码](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
